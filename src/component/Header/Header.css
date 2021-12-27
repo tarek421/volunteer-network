@@ -1,0 +1,57 @@
+
+
+.active {
+   color: red;
+   text-decoration: none;
+   font-size: 16px;
+   list-style: none;
+   text-decoration: none;
+   font-weight: 500;
+   margin-right: 1rem;
+   text-transform: uppercase;
+ }
+
+.header{
+   display: flex;
+   justify-content: space-between;
+}
+.logo{
+   height: 50px;
+   cursor: pointer;
+}
+.logo img{
+   height: 100%;
+}
+.header .navigation{
+   display: flex;
+}
+
+
+#link{
+   list-style: none;
+   padding: 5px 20px;
+   cursor: pointer;
+   text-decoration: none;
+}
+
+.login, .admin{
+   border-radius: 6px;
+   margin-right: 10px;
+   text-align: center;
+}
+
+.login:hover{
+   color: #fff;
+}
+.admin:hover{
+   color: #fff;
+}
+
+.login{
+   background-color: rgb(0 0 247 / 88%);
+   color: #fff;
+}
+.admin{
+   background-color: #525e6ee3;
+   color: white;
+}

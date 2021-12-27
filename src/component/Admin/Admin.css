@@ -1,0 +1,53 @@
+.list{
+   cursor: pointer;
+   font-weight: bold;
+}
+.card{
+   width: 80%;
+}
+
+.image-upload input {
+   display: none;
+ }
+
+ .image-upload{
+   width: 153px;
+   border: 1px solid #c9ababe6;
+   margin-top: 35px;
+   border-radius: 5px;
+ }
+
+ .image-upload img {
+   height: 40px;
+ }
+
+
+
+input, textarea{
+   width: 80%;
+   padding: 10px;
+   border: 1px solid #ddd;
+   color: #625c5c;
+   font-weight: 600;
+   border-radius:10px;
+}
+textarea{
+   height: 100px !important;
+   padding: 20px !important;
+   border-radius: 10px !important;
+   width: 80% !important;
+}
+.formStyle {
+   background: #ffffff;
+   width: 90%;
+   padding: 25px;
+   border-radius: 15px;
+   margin: auto;
+}
+.s-btn {
+   width: 41% !important;
+   border-radius: 10px;
+   background: rgb(2 123 252 / 51%);
+   padding: 10px;
+   color: aliceblue;
+}

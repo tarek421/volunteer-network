@@ -1,0 +1,15 @@
+img{
+   height: 250px;
+   position: relative;
+   bottom: -2px;
+}
+
+.card{
+   height: 340px;
+   cursor: pointer;
+   width: 100% !important;
+}
+
+.card-body h5{
+   color: #fff;
+}

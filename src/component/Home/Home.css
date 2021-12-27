@@ -1,0 +1,14 @@
+.center {
+  display: flex;
+  margin: auto;
+  width: 32%;
+}
+
+.top{
+   margin-top: 20px;
+}
+
+.top h2{
+   font-size: 30px;
+   font-weight: 700;
+}
